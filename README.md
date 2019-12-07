@@ -8,7 +8,7 @@
 ## test 测试目录
 ## tools 常用工具封装目录
 
-.gitignore git忽略文件
-index.js  入口文件
-package.json 包管理
+.gitignore git忽略文件  
+index.js  入口文件  
+package.json 包管理  
 README.md  
